@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: ""
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
@@ -13,7 +13,7 @@ feature_row1:
     Это программа сборник заданий для отработки навыков чтения.
     <br> Архитектура MVI, kotlin, Room, ViewModel
     <br>     <br>
-    [Подробнее](/rt/)
+    [Подробнее](/summary/rt/)
     '
     url: "rt"
     btn_label:   
