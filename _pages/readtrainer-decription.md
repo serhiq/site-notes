@@ -15,7 +15,7 @@ feature_row1:
      <br>
     <a href="https://play.google.com/store/apps/details?id=com.gmail.uia059466.readtrainer">Открыть в GooglePlay</a>
      <br>     <br>
-    <a href="rt-a/">Посмотреть архитектуру</a>
+    <a href="summary/rt-a/">Посмотреть архитектуру</a>
     
     </p> 
     ' 
