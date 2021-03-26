@@ -1,0 +1,37 @@
+# main links
+main:
+  - title: "-"
+    url:  /docs/toolbar-espresso/ 
+    
+# documentation links
+docs:
+  - title: Тестирование
+    children:
+      - title: "Appbar - espresso"
+        url:  /docs/toolbar-espresso/
+      - title: "Spoon"
+        url: /docs/spoon/
+      - title: "Ui-Automator"
+        url: /docs/ui-automator/
+      - title: "Feature test"
+        url: /docs/feature-test/
+      - title: "Screenshot test"
+        url: /docs/screenshoots-test/ 
+        
+  - title: Решения
+    children:
+      - title: "Скрытие клавиатуры"
+        url: /docs/keyboard/
+  - title: Чтение кода
+    children:
+      - title: "alcaa"
+        url: /docs/alcaa/
+        
+#  - title: Other
+#    children:
+#      - title: "Kubuntu"
+#        url: /docs/kubuntu_setup/ 
+#      - title: "Widows"
+#        url: /docs/windows/
+#      - title: "Jira"
+#        url:  /docs/jira/  
