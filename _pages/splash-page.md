@@ -14,6 +14,8 @@ feature_row1:
     <br> Архитектура MVI, kotlin, Room, ViewModel
     <br>     <br>
     
+    <a href="https://play.google.com/store/apps/details?id=com.gmail.uia059466.readtrainer">Открыть в GooglePlay</a>
+    <br>
     <a href="rt/">Подробнее</a>
 
  
@@ -28,8 +30,12 @@ feature_row2:
 - image_path: assets/setofcard.png
   alt: "placeholder image 2"
   title: "Набор карточек"
-  excerpt: 'Набор карточек слов для чтения. Можно создавать свои наборы карт, можно откладывать карты для повтора позднее.
-  <br> Архитектура MVVM, чистый kotlin, LiveData,Room, ViewModel, Navigation '
+  excerpt: '**1k** скачиваний, **4.8** ★ <br>
+    <br>Набор карточек слов для чтения. Можно создавать свои наборы карт, можно откладывать карты для повтора позднее.
+  <br> Архитектура MVVM, чистый kotlin, LiveData,Room, ViewModel, Navigation 
+  <br>
+      <a href=" https://play.google.com/store/apps/details?id=com.gmail.uia059466.setofcardreading.word">Открыть в GooglePlay</a>
+  '
   url: "#test-link"
   btn_label:   
   btn_class: btn--link
