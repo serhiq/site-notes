@@ -13,7 +13,7 @@ feature_row1:
     Это программа сборник заданий для отработки навыков чтения.
     <br> Архитектура MVI, kotlin, Room, ViewModel
     <br>     <br>
-    [Подробнее](/summary/rt/)
+    [Подробнее]({% readtrainer-decription %})
     '
     url: "rt"
     btn_label:   
