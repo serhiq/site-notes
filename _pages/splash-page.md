@@ -14,7 +14,7 @@ feature_row1:
     <br> Архитектура MVI, kotlin, Room, ViewModel
     <br>     <br>
     
-    <a href="rt/">Посмотреть архитектуру</a>
+    <a href="rt/">Подробнее</a>
 
  
  
