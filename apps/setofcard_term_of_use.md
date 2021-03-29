@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Terms & Conditions
 permalink: /sc-t/
 ---
