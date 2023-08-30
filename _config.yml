@@ -124,7 +124,7 @@ footer:
   links:
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram"
-      url: "https://t.me/serhiqA"
+      url: "https://t.me/OvcharenkoEkaterina"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -134,7 +134,7 @@ footer:
       # url:
     - label: "Email"
       icon:  "fas fa-fw fa-envelope-square"
-      url:   "mailto:your.name@email.com"
+      url:   "mailto:azzp71@gmail.com"
       
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
